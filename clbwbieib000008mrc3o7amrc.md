@@ -1,0 +1,5 @@
+# Introduction to Machine Learning
+
+Machine Learning was introduced in the year 1959 by [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel_(computer_scientist)). [Checker's game](http://www.incompleteideas.net/book/ebook/node109.html) was the world's first computer-based self-learning program which he had written in the IBM 701.
+
+Machine learning is the sub-branch of artificial intelligence. The definition of machine learning is the ability of the computer to imitate human behaviour. It can be understandable by a small real-time example. A 1-year-old baby doesn't know how to talk but by seeing their parents and everyone around them they will be able to speak. First, they used to speak simple words like Amma, Appa etc..then slowly other words too. After that, they used to learn how to reply to specific questions. Here the training dataset is the words that we speak near the child. The child's brain is used to train with the given dataset and slowly they will be speaking.
