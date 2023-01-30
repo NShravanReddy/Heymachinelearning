@@ -1,0 +1,5 @@
+# Functions  of Machine Learning
+
+Before we move to the functions of Machine learning we will discuss a basic thing about it. It is a branch of artificial intelligence which deals with algorithms. These algorithms are widely used by large tech companies like chatGPT, GoogleAI, Microsoft AI, Open AI, etc. We wanted to build intelligent machines to do our daily work easier. These machines are built to solve the problems that we face in the various public sectors like agriculture, health care, commerce, manufacturing and other sectors too. I think No sector is there that is not involved with AI.
+
+Now, We humans are going to build a machine with intelligence like us. This is called Artificial General Intelligence or AGI. The companies like Nvidia, IBM, open AI, and Deepmind are working on this type of technology. It may take a few years or maybe a hundred years too to get there. Machine learning is creating tremendous wealth in the current software industry. According to the survey McKinsey both AI and Machine learning are going to create $13 trillion dollar wealth by the year 2030.
