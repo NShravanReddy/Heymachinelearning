@@ -1,4 +1,11 @@
-# Neural networks
+---
+title: "Neural networks"
+datePublished: Tue Jan 31 2023 13:21:06 GMT+0000 (Coordinated Universal Time)
+cuid: cldk9py18000009jufro10dsx
+slug: neural-networks
+tags: machine-learning, wemakedevs, heymachinelearning
+
+---
 
 In this article, I am going to explain Neural networks from the scratch. The neuron is the biological name and the main reason to invent neural networks or artificial neural networks is to imitate the human brain to solve particular problems like humans. They are invented in 1944 but by 2004 the name of neural networks became popular by the name Deep learning.
 
@@ -24,4 +31,4 @@ Example: predicting whether the product or Shirt is a top seller or not. It is i
 
 **The performance of the neural depends on the size. If it is small it is suitable for small types of data**.
 
-In this article we have gone throught about the artificial neural networks with their histroy, basic working of nuerons with example and performance too.
+In this article we have gone throught about the artificial neural networks with their histroy, basic working of neurons with example and performance too.
