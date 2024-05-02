@@ -27,49 +27,48 @@ To install Miniforge, run the command:
 
 ```plaintext
 brew install miniforge
-
 ```
 
 Then, create a new directory called `tensorflow` by executing the following command:
 
 ```plaintext
 mkdir tensorflow
-
 ```
 
 Navigate to the `tensorflow` directory:
 
 ```plaintext
 cd tensorflow
-
 ```
 
 Activate the virtual environment named `env`:
 
 ```plaintext
 conda activate env
-
 ```
 
 Install the TensorFlow dependencies provided by Apple:
 
 ```plaintext
 conda install -c apple tensorflow-deps
-
 ```
 
 Next, install TensorFlow by running the following command:
 
 ```plaintext
 python -m pip install tensorflow
-
 ```
 
 If you are using Apple Silicon, you can also install the `tensorflow-metal` package:
 
 ```plaintext
 python -m pip install tensorflow-metal
-
 ```
 
 To install additional packages such as Jupyter, Pandas, NumPy, Matplotlib, and Scikit-learn, use the following command:
+
+```plaintext
+conda install jupyter pandas numpy matplotlib scikit-learn
+```
+
+Please like the blog ,if you feel this content is helpful and also please do share that above commands worked.
